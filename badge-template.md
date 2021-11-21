@@ -19,3 +19,7 @@
     </div>
   </foreignObject>
   </svg>
+
+---
+${{ env.EXISTING_CONTENT }}
+                                                                 
