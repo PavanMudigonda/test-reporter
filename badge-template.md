@@ -2,7 +2,7 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <a href="">
-<img alt="CI Build" src="https://github.com/${{env.REPOSITORY_FULL_NAME}}/actions/workflows/$GITHUB_WORKFLOW/badge.svg?branch=${{env.GITHUB_REF_NAME}}>
+<img alt="CI Build" src="https://github.com/${{env.GITHUB_REPOSITORY}}/actions/workflows/$GITHUB_WORKFLOW/badge.svg?branch=${{env.GITHUB_REF_NAME}}>
       </a>
 <br/>
 <img alt="Stale Pull Requests" src=".github/badges/stale-pr-count.svg">
