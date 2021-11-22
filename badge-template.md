@@ -21,5 +21,3 @@
   </svg>
 
 ---
-${{ env.EXISTING_CONTENT }}
-                                                                 
